@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #3c93d2;
+}
+#holder{
+    width: 1000px;
+    height: 700px;
+    border: white solid 2px;
+    position: relative;
+    top:50px ;
+    left:50px ;
+}
+#child1{
+    position: absolute;
+    top: 170px;
+    left: 250px;
+}
+
+#child2{
+    position: absolute;
+    top: 290px;
+    left: 150px;
+}
+
+#child3{
+    position: absolute;
+    top: 380px;
+    left: 160px;
+}
+
+#child4{
+    position: absolute;
+    top: 460px;
+    left: 190px;
+}
+
+#child5{
+    position: absolute;
+    top: 525px;
+    left: 250px;
+}
+
+#child6{
+    position: absolute;
+    top: 290px;
+    right: 150px;
+}
+
+#child7{
+    position: absolute;
+    top: 380px;
+    right: 160px;
+}
+
+#child8{
+    position: absolute;
+    top: 460px;
+    right: 190px;
+}
+
+#child9{
+    position: absolute;
+    top: 525px;
+    right: 250px;
+}
+
+#child10{
+    position: absolute;
+    top: 40px;
+    left: 373px;
+}
+
+#child11{
+    position: absolute;
+    top: 40px;
+    right: 373px;
+}
+
+#child12{
+    position: absolute;
+    top: 75px;
+    left: 415px;
+}
+
+#child13{
+    position: absolute;
+    top: 75px;
+    right: 415px;
+}
+
+#child14{
+    position: absolute;
+    top: 70px;
+    left: 180px;
+}
+
+#child15{
+    position: absolute;
+    top: 70px;
+    right: 190px;
+}
+
+#child16{
+    position: absolute;
+    top: 120px;
+    left: 435px;
+}
+
+#child17{
+    position: absolute; 
+    top: 120px;
+    right: 435px;
+}
